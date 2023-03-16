@@ -41,7 +41,7 @@ function handleClickOnMenuIcon() {
 <template>
   <div class="max-w-[1440px] mx-auto px-6">
     <header class="flex justify-between items-center py-4 mt-8 text-dark-grayish-blue">
-      <img src="../../public/assets/images/logo.svg" alt="logo" />
+      <img src="/assets/images/logo.svg" alt="logo" />
       <ul class="items-center gap-12 hidden sm:flex">
         <li class="hover:cursor-pointer hover:text-soft-orange duration-300">Home</li>
         <li class="hover:cursor-pointer hover:text-soft-orange duration-300">News</li>
